@@ -1,0 +1,8 @@
+[general]
+name=QGsT Trial
+email=nick.grue@nrel.gov
+author=Nick Grue
+qgisMinimumVersion=2.0
+description=Trial GsT Plugin
+about=Test plugin for GsT
+version=version 0.1

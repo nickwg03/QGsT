@@ -1,0 +1,26 @@
+Wind Resource Layer
+==================
+  Source: National Renewable Energy Laboratory (NREL) and AWS Truepower (2007)
+  Spatial resolution/Scale: 1 km
+  Description:  Annual mean wind power density (W/m2) at 50 m height above
+    ground level.  Data has been summarized into one-quarter power class
+    intervals, calculating an average power density value within the interval 
+    area.
+
+
+Spatial Reference
+==================
+  Projection:  Albers
+  Units: Meters
+  Datum:  WGS84
+  Parameters:
+     False_Easting:	0
+     False_Northing:	0
+     Central_Meridian:	105.0
+     Standard Parallel 1: 11.0
+     Standard Parallel 2: 21.0
+     Latitude_Of_Origin: 16.0
+
+
+Vietnam Geospatial Toolkit
+March 27, 2013

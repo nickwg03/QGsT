@@ -1,0 +1,25 @@
+Tilt Solar Layer
+==================
+  Source: National Renewable Energy Lab CSR dataset (2007)
+  Spatial resolution/Scale: 30 km
+  Description:  Solar resource for a fixed flat plat collector, facing the
+    equator with a tilt equal to the cell's latitude, averaged annually and
+    monthly.
+
+
+Spatial Reference
+==================
+  Projection:  Albers
+  Units: Meters
+  Datum:  WGS84
+  Parameters:
+     False_Easting:	0
+     False_Northing:	0
+     Central_Meridian:	105.0
+     Standard Parallel 1: 11.0
+     Standard Parallel 2: 21.0
+     Latitude_Of_Origin: 16.0
+
+
+Vietnam Geospatial Toolkit
+March 27, 2013

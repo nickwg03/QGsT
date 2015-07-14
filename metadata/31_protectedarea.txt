@@ -1,0 +1,27 @@
+Protected Areas Layer
+==================
+  Source: World Database on Protected Areas Consortium, copyright World
+    Conservation Union (IUCN) and UNEP-World Conservation Monitoring
+    Centre (UNEP-WCMC) (2012)
+  Spatial resolution/Scale: Varied, compiled from multiple sources
+  Description:  Database of protected areas of IUCN categories I through
+    VI, other protected areas and areas defined under international
+    agreements.
+
+
+Spatial Reference
+==================
+  Projection:  Albers
+  Units: Meters
+  Datum:  WGS84
+  Parameters:
+     False_Easting:	0
+     False_Northing:	0
+     Central_Meridian:	105.0
+     Standard Parallel 1: 11.0
+     Standard Parallel 2: 21.0
+     Latitude_Of_Origin: 16.0
+
+
+Vietnam Geospatial Toolkit
+March 27, 2013

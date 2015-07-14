@@ -1,0 +1,24 @@
+Landuse Layer
+==================
+  Source: U.S. Geological Survey Global Land Use/Land Cover dataset (1993)
+  Spatial resolution/Scale: 1 km.
+  Description:  Land use/land cover categories, using the U.S. Geological
+    Survey Modified Level 2 legend.
+
+
+Spatial Reference
+==================
+  Projection:  Albers
+  Units: Meters
+  Datum:  WGS84
+  Parameters:
+     False_Easting:	0
+     False_Northing:	0
+     Central_Meridian:	105.0
+     Standard Parallel 1: 11.0
+     Standard Parallel 2: 21.0
+     Latitude_Of_Origin: 16.0
+
+
+Vietnam Geospatial Toolkit
+March 27, 2013

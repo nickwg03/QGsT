@@ -1,0 +1,164 @@
+layer_meta:
+  00_othcountrybnd:
+    title: othcountrybnd
+    metadata: |-
+      othcountrybnd Metadata
+  01_elevation:
+    title: elevation
+    metadata: |-
+      elevation Metadata
+  02_landuse:
+    title: landuse
+    metadata: |-
+      landuse Metadata
+  12_solar_tilt:
+    title: solar_tilt
+    metadata: |-
+      solar_tilt Metadata
+  13_solar_direct:
+    title: solar_direct
+    metadata: |-
+      solar_direct Metadata
+  14_solar_glo:
+    title: solar_glo
+    metadata: |-
+      solar_glo Metadata
+  20_wind:
+    title: wind
+    metadata: |-
+      wind Metadata
+  26_biomass_biogas:
+    title: biomass_biogas
+    metadata: |-
+      biomass_biogas Metadata
+  27a_biomass_crop_rice:
+    title: _biomass_crop_rice
+    metadata: |-
+      _biomass_crop_rice Metadata
+  27b_biomass_crop_corn:
+    title: _biomass_crop_corn
+    metadata: |-
+      _biomass_crop_corn Metadata
+  27c_biomass_crop_cassava:
+    title: _biomass_crop_cassava
+    metadata: |-
+      _biomass_crop_cassava Metadata
+  27d_biomass_crop_peanut:
+    title: _biomass_crop_peanut
+    metadata: |-
+      _biomass_crop_peanut Metadata
+  27e_biomass_crop_sugarcane:
+    title: _biomass_crop_sugarcane
+    metadata: |-
+      _biomass_crop_sugarcane Metadata
+  27f_all_crop_residues:
+    title: _all_crop_residues
+    metadata: |-
+      _all_crop_residues Metadata
+  31_protectedarea:
+    title: protectedarea
+    metadata: |-
+      protectedarea Metadata
+  32_poverty_summary:
+    title: poverty_summary
+    metadata: |-
+      poverty_summary Metadata
+  33_rural_electrification:
+    title: rural_electrification
+    metadata: |-
+      rural_electrification Metadata
+  36_subcountrybnd3:
+    title: subcountrybnd3
+    metadata: |-
+      subcountrybnd3 Metadata
+  37_subcountrybnd2:
+    title: subcountrybnd2
+    metadata: |-
+      subcountrybnd2 Metadata
+  38_subcountrybnd1:
+    title: subcountrybnd1
+    metadata: |-
+      subcountrybnd1 Metadata
+  39_countryboundary:
+    title: countryboundary
+    metadata: |-
+      countryboundary Metadata
+  40_rivers:
+    title: rivers
+    metadata: |-
+      rivers Metadata
+  42_railroads:
+    title: railroads
+    metadata: |-
+      railroads Metadata
+  43_roads:
+    title: roads
+    metadata: |-
+      roads Metadata
+  44_transmissionline:
+    title: transmissionline
+    metadata: |-
+      transmissionline Metadata
+  50_biomass_msw:
+    title: biomass_msw
+    metadata: |-
+      biomass_msw Metadata
+  51_powerplant:
+    title: powerplant
+    metadata: |-
+      powerplant Metadata
+  53_airports:
+    title: airports
+    metadata: |-
+      airports Metadata
+  59_cities:
+    title: cities
+    metadata: |-
+      cities Metadata
+
+#layer_configs:
+#  Base:
+#    expanded: True
+#    layers:
+#      - id: 00_othcountrybnd:
+#          active: True
+#      - id: 01_elevation
+#      - id: 02_landuse
+#      - id: 36_subcountrybnd3
+#      - id: 37_subcountrybnd2
+#      - id: 38_subcountrybnd1
+#      - id: 39_countryboundary
+#          active: True
+#  Resources:
+#    expanded: True
+#    layers:
+#      - id: 12_solar_tilt
+#      - id: 13_solar_direct
+#      - id: 14_solar_glo:
+#          active: True
+#      - id: 20_wind:
+#      - id: 26_biomass_biogas
+#      - id: 27a_biomass_crop_rice
+#      - id: 27b_biomass_crop_corn
+#      - id: 27c_biomass_crop_cassava
+#      - id: 27d_biomass_crop_peanut
+#      - id: 27e_biomass_crop_sugarcane
+#      - id: 27f_all_crop_residues
+#  All Others:
+#    expanded: False
+#    layers:
+#      - id: 31_protectedarea
+#      - id: 32_poverty_summary
+#      - id: 33_rural_electrification
+#      - id: 36_subcountrybnd3
+#      - id: 37_subcountrybnd2
+#      - id: 38_subcountrybnd1
+#      - id: 39_countryboundary
+#      - id: 40_rivers
+#      - id: 42_railroads
+#      - id: 43_roads
+#      - id: 44_transmissionline
+#      - id: 50_biomass_msw
+#      - id: 51_powerplant
+#      - id: 53_airports
+#      - id: 59_cities
